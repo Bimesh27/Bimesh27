@@ -1,6 +1,6 @@
-# ![Pixel Art](https://images.pexels.com/photos/25626432/pexels-photo-25626432/free-photo-of-ai-graphic-representation.jpeg)
+# ![Pixel Art](https://images.unsplash.com/photo-1603720210895-9850ff906dff?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDF8fHBpeGVsJTIwYXJ0fGVufDB8fHx8MTY5MDk4ODI3Mg&ixlib=rb-4.0.3&q=80&w=1080)
 
-# Hi there 👋, I'm Bimesh Wangkheimayum
+# Hi there 👋, I'm Bimesh Wangkheimayum 
 
 ## About Me
 I'm a passionate developer diving deep into the world of web development, with a focus on building scalable and user-friendly applications. I enjoy learning new technologies and am currently honing my skills in **Next.js** along with other cutting-edge tools and frameworks.
@@ -8,7 +8,7 @@ I'm a passionate developer diving deep into the world of web development, with a
 - 🔭 I’m currently working on personal projects to strengthen my skills in full-stack development.
 - 🌱 I’m learning **Next.js** and exploring the latest in web technologies.
 - 💬 Ask me about web development, JavaScript, or anything related to Next.js!
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/bimesh-wangkheimayum/) | [Twitter](https://twitter.com/yourusername) | [GitHub](https://github.com/bimesh27)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/bimesh-wangkheimayum/) | [Twitter](https://twitter.com/yourusername) | [GitHub](https://github.com/bimesh27) | Email: [bimeshwangkheimayum2@gmail.com](mailto:bimeshwangkheimayum2@gmail.com)
 
 ## Technologies & Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge)
@@ -36,3 +36,4 @@ I'm a passionate developer diving deep into the world of web development, with a
 - [LinkedIn](https://www.linkedin.com/in/bimesh-wangkheimayum/)
 - [Twitter](https://twitter.com/yourusername)
 - [GitHub](https://github.com/bimesh27)
+- Email: [bimeshwangkheimayum2@gmail.com](mailto:bimeshwangkheimayum2@gmail.com)
