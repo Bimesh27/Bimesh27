@@ -1,5 +1,3 @@
-# ![Pixel Art](https://images.pexels.com/photos/25626432/pexels-photo-25626432/free-photo-of-ai-graphic-representation.jpeg)
-
 # Hi there 👋, I'm Bimesh Wangkheimayum 
 
 ## About Me
