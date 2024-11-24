@@ -21,14 +21,15 @@ I'm a passionate developer diving deep into the world of web development, with a
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge)
 
+
 ## GitHub Stats
 ![Bimesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=bimesh27&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bimesh27&layout=compact&theme=radical)
 
 ## Featured Projects
-- [Project 1](https://github.com/bimesh27/project1) - A brief description of your project.
-- [Project 2](https://github.com/bimesh27/project2) - A brief description of your project.
+- [Project 1](https://learn-to-code.vercel.app) - A simple blog project , to teach beginners how to code.
+- [Project 2](https://github.com/bimesh27/project2) - currently working on it hehe.
 
 ## Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/bimesh-wangkheimayum/)
